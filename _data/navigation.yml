@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "简历"
+  - title: "CV"
     url: /cv/
 
-  - title: "项目研究"
+  - title: "Research"
     url: /research/
   
-  - title: "博客文章"
+  - title: "Blog Posts"
     url: /year-archive/
     
-  #  - title: "课外实践"
-    #url: /out/
-    
-  - title: "杂谈"
-   url: /misc/
+  - title: "Misc"
+    url: /misc/
