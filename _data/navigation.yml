@@ -3,14 +3,14 @@ main:
   - title: "简历"
     url: /cv/
 
-  #- title: "项目研究"
-  #  url: /research/
+  - title: "项目研究"
+    url: /research/
   
-  #- title: "博客文章"
-  #  url: /year-archive/
+  - title: "博客文章"
+    url: /year-archive/
     
   #  - title: "课外实践"
     #url: /out/
     
-  #- title: "杂谈"
-   # url: /misc/
+  - title: "杂谈"
+   url: /misc/
