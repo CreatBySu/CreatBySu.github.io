@@ -1,7 +1,7 @@
 ---
 title: 'OneNet论文阅读'
-date: 20223-10-20
-permalink: /posts/2012/08/blog-post-4/
+date: 2023-10-20
+permalink: /posts/OneNet论文阅读/
 tags:
   - 论文阅读
   - 时间序列
