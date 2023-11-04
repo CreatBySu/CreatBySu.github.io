@@ -7,8 +7,6 @@ author_profile: true
 
 博客展示总网站：[苏永丰的个人博客](https://yongfengsu.notion.site/33254bc8a198441d87d17d1df55b027c?v=47fea8b021dd4888bc9d2bf7a35efeda&pvs=4)
 
-![tmp6687](C:\Users\10203\AppData\Local\Temp\tmp6687.png)
-
 
 
 ------
