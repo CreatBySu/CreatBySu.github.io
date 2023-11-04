@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "项目"
+title: "成果"
 permalink: /publications/
 author_profile: true
 ---
-1111111111111111111111111111111111111111
-122222
+
 
 
 {% if author.googlescholar %}
