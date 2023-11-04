@@ -6,14 +6,12 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Research"
+  - title: "publications"
     url: /publications/
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /Blog/
     
   - title: "Misc"
     url: /misc/
 
-  - title: "Blog"
-    url: /Blog/
