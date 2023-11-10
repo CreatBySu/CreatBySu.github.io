@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "简  历"
     url: /cv/
 
-  - title: "Research"
+  - title: "研  究"
     url: /research/
 
-  - title: "publications"
+  - title: "成  果"
     url: /publications/
     
-  - title: "Blog Posts"
+  - title: "博  客"
     url: /Blog/
     
-  - title: "Misc"
+  - title: "其  他"
     url: /misc/
 
