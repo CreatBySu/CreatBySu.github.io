@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-![misc](../imagesimagesimages/misc.png)
+![misc](../images/misc.png)
 
 # 👥竞赛实践经历
 
