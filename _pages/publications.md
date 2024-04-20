@@ -36,10 +36,9 @@ None
    Author: Yihui Li[^*], **Yongfeng Su**[^*], Jiawei Xu, Zhou Guo, Caicong Wu, Ying Chen.
    
    [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture), **JCR Q1 TOP, IF=8.3**.
+   
+   ------
+   
+   
 
-
-
-[^*]: *These authors contributed to the work equllly and should be regarded as co-first authors.
-
-
-
+[^*]: These authors contributed to the work eqully and should be regarded as co-first authors.
