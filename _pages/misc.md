@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-![misc](D:\UserData\Desktop\misc.png)
+![misc](../imagesimagesimages/misc.png)
 
 # 👥竞赛实践经历
 
