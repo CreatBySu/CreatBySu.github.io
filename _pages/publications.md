@@ -13,7 +13,7 @@ author_profile: true
 
   - International Conference on Intelligent Computing([ICIC 2024](http://www.ic-icc.cn/2024/index.htm)), EI/ CCF-C.
 
-  - Accepted as oral paper (oral+poster<41%), oral report slide [Click here](https://github.com/CreatBySu/CreatBySu.github.io/raw/main/files/ICIC2024%20Daformer%20Oral%20Report.pptx).
+  - Accepted as oral paper (oral+poster<41%), oral report slide [click here](https://github.com/CreatBySu/CreatBySu.github.io/raw/main/files/ICIC2024%20Daformer%20Oral%20Report.pptx).
 
 # Under Review
 
